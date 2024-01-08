@@ -1,5 +1,10 @@
-# _RESOURCES_
-https://fontsource.org/
+# RESOURCES
+
+<details>
+  <summary>🖋️ Fount</summary>
+  
+✨ Site: [https://alvarocodes.github.io/blog-vue-tailwind-simple/ ](https://fontsource.org/) 
+</details>
 
 https://flowbite.com/docs/getting-started/introduction/
 
