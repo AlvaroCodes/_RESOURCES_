@@ -1,19 +1,53 @@
 # RESOURCES
+<table>
+<tr>
+  <!-- Column 1 -->
+  <td valign="top" width="25%">
 
-<details>
-  <summary>🖋️ Fount</summary>
-  
-✨ Site: [https://alvarocodes.github.io/blog-vue-tailwind-simple/ ](https://fontsource.org/) 
-</details>
+## ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+### 🧩 Components:  
+➡️ flowbite: https://flowbite.com/docs/getting-started/introduction/
 
-https://flowbite.com/docs/getting-started/introduction/
+  </td>
+  <!-- Column 2 -->
+  <td valign="top" width="25%">
 
-https://bg.ibelick.com/
+## ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 📜Background Snippets:  
+➡️ bg.ibelick: https://bg.ibelick.com/
 
-https://svgl.vercel.app/
+### 🖋️ Fount
+➡️ fontsource: https://fontsource.org/
 
-https://jakearchibald.github.io/svgomg/
+  </td>
+  <!-- Column 3 -->
+  <td valign="top" width="25%">
 
-https://shots.so/
+## ![Images](https://img.shields.io/badge/Images-5C2D91?style=for-the-badge&logo=image&logoColor=white)
+### 🖼️ SVG:
+➡️ svgl: https://svgl.vercel.app/  
+➡️ jakearchibald: https://jakearchibald.github.io/svgomg/  
 
-https://squoosh.app/
+### 🚀 Performance:
+➡️ https://squoosh.app/
+
+  </td>
+  <!-- Column 4 -->
+  <td valign="top" width="25%">
+
+## ![Mockups](https://img.shields.io/badge/Mockups-FF69B4?style=for-the-badge&logo=mockup&logoColor=white)
+➡️ shots: https://shots.so/
+
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
