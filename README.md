@@ -19,7 +19,7 @@
 ### 🖋️ Fount
 ➡️ fontsource: https://fontsource.org/
 
-### 🔩 Other
+### 🔩 Others
 ➡️ css-peeps: http://css-peeps.com/
 
   </td>
