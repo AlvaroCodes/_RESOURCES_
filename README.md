@@ -19,6 +19,9 @@
 ### 🖋️ Fount
 ➡️ fontsource: https://fontsource.org/
 
+### 🔩 Other
+➡️ css-peeps: http://css-peeps.com/
+
   </td>
   <!-- Column 3 -->
   <td valign="top" width="25%">
@@ -27,6 +30,7 @@
 ### 🖼️ SVG:
 ➡️ svgl: https://svgl.vercel.app/  
 ➡️ jakearchibald: https://jakearchibald.github.io/svgomg/  
+➡️ openpeeps: https://www.openpeeps.com/  
 
 ### 🚀 Performance:
 ➡️ https://squoosh.app/
