@@ -1,51 +1,52 @@
 # RESOURCES
-<table>
-<tr>
-  <!-- Column 1 -->
-  <td valign="top" width="25%">
 
-## ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-### 🧩 Components:  
+<details>
+  <summary>🧩 Components</summary>
+  
 ➡️ flowbite: https://flowbite.com/docs/getting-started/introduction/
 
-  </td>
-  <!-- Column 2 -->
-  <td valign="top" width="25%">
+</details>
 
-## ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-### 📜Background Snippets:  
+<details>
+  <summary>📜Background Snippets</summary>
+  
 ➡️ bg.ibelick: https://bg.ibelick.com/
 
-### 🖋️ Fount
+</details>
+
+<details>
+  <summary>🖋️ Fount</summary>
+  
 ➡️ fontsource: https://fontsource.org/
 
-### 🔩 Others
-➡️ css-peeps: http://css-peeps.com/
+</details>
 
-  </td>
-  <!-- Column 3 -->
-  <td valign="top" width="25%">
-
-## ![Images](https://img.shields.io/badge/Images-5C2D91?style=for-the-badge&logo=image&logoColor=white)
-### 🖼️ SVG:
+<details>
+  <summary>🖼️ SVG</summary>
+  
 ➡️ svgl: https://svgl.vercel.app/  
 ➡️ jakearchibald: https://jakearchibald.github.io/svgomg/  
-➡️ openpeeps: https://www.openpeeps.com/  
 
-### 🚀 Performance:
+**Peeps**  
+➡️ openpeeps: https://www.openpeeps.com/  
+➡️ css-peeps: http://css-peeps.com/
+
+</details>
+
+<details>
+  <summary>🚀 Performance</summary>
+  
 ➡️ https://squoosh.app/
 
-  </td>
-  <!-- Column 4 -->
-  <td valign="top" width="25%">
+</details>
 
-## ![Mockups](https://img.shields.io/badge/Mockups-FF69B4?style=for-the-badge&logo=mockup&logoColor=white)
+
+<details>
+  <summary> 🟦 Mockups</summary>
+  
 ➡️ shots: https://shots.so/
 
-  </td>
-</tr>
-</table>
-
+</details>
 
 
 
